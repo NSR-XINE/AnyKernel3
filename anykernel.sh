@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=QuicksilveR Kernel by ghostrider-reborn
+kernel.string=Xine Kernel by NSR-XINE
 do.devicecheck=1
 do.modules=1
 do.systemless=1
