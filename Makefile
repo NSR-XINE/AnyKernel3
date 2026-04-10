@@ -4,7 +4,7 @@ CODENAME ?= lisa
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
-ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
+ZIP := $(NAME)-$(CODENAME)-$(VERSION)-$(CUSTOM)
 EXCLUDE := Makefile *.git* *.jar* *placeholder* *.md*
 
 #zipping
