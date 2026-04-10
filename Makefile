@@ -1,5 +1,5 @@
 # Zip Naming
-NAME ?= AtomX
+NAME ?= XINE
 CODENAME ?= lisa
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
