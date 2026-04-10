@@ -1,5 +1,5 @@
 # Zip Naming
-NAME ?= AtomX
+NAME ?= QuicksilveR
 CODENAME ?= lisa
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
